@@ -1,0 +1,53 @@
+.ft {
+  display: flex;
+  margin-top: calc(100vh - 100px);
+}
+
+.foot {
+  height: 100px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 70%;
+}
+
+.foot1 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 100px;
+}
+
+.foot2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 100px;
+}
+
+.foot5 {
+  display: flex;
+  margin-left: 100px;
+}
+
+.foot4 {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.foot3 {
+  height: 100px;
+  align-items: center;
+  display: flex;
+  margin-left: 160px;
+}
+
+.f {
+  width: 30%;
+  display: flex;
+  background-color: antiquewhite;
+}
