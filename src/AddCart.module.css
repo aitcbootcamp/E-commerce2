@@ -1,0 +1,144 @@
+.products {
+  /* background-color: red; */
+  width: 50%;
+  margin: 120px auto;
+}
+
+.cont {
+  /* background-color: red; */
+  height: 1500px;
+  display: flex;
+}
+
+.check {
+  background-color: antiquewhite;
+  width: 16%;
+  margin-right: 10px;
+  border-radius: 20px;
+  margin-top: 150px;
+  text-align: center;
+  align-self: flex-start;
+
+  left: 1250px;
+
+
+}
+
+.prod {
+  
+  display: flex;
+  background-color: antiquewhite;
+  margin-top: 30px;
+  border-radius: 30px;
+
+}
+
+.images {
+  display: flex;
+  align-items: center;
+  width: 30%;
+}
+
+.img {
+  height: 80%;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  border-radius: 50px;
+}
+
+.p1 {
+  font-size: 1.9rem;
+  margin: 20px 90px 10px 90px;
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.p2 {
+  font-size: 1.2rem;
+  margin: 0px 90px;
+  font-family: 'Roboto';
+}
+
+.p3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 10px 90px;
+}
+
+.img1 {
+  height: 15px;
+  width: 15px;
+  margin-left: 100px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.null {
+  background-color: red;
+  height: 200px;
+}
+
+.p4 {
+  font-size: 4.9rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 200px;
+  color: antiquewhite;
+}
+
+.p10 {
+  font-size: 1.2rem;
+  padding-top: 15px;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.p11 {
+  font-size: 1.6rem;
+  margin-top: 50px;
+  font-weight: 700;
+}
+
+.button1 {
+  margin-top: 100px;
+  width: 170px;
+  border: none;
+  height: 30px;
+  background-color: white;
+  margin-bottom: 30px 
+}
+
+.module { 
+  background-color: rgb(224, 221, 221);
+  height: 600px;
+  position: relative;
+  bottom: 1350px;
+  width: 50%;
+  margin-left: 25%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;  
+
+}
+
+.p12 {
+  font-size: 1.2rem;
+  margin-top: 30px;
+}
+.input {
+  width: 50%;
+  margin: 15px auto;
+}
+
+.ik {
+  position: absolute;
+  bottom: 540px;
+  left: 91%;
+}
+
+.imgg {
+  height: 20px;
+
+}

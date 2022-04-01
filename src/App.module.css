@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.cont {
+  display: flex;
+  /* background-color: yellow; */
+  margin-top: 180px;
+  /* width: 400px; */
+  margin-left: 25px;
+}
+.img img{
+height:100px !important
+}
+
+.sld {
+  margin-right: 230px;
+  border-radius: 50px;
+  margin-top: 17px;
+}
+

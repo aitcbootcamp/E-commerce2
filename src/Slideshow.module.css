@@ -1,0 +1,12 @@
+@import 'react-alice-carousel/lib/alice-carousel.css';
+
+.cont {
+  background-color: red;
+  width: 60%;
+  margin-right: 180px;
+  height: 450px;
+}
+
+.sld {
+  height: 200px;
+}

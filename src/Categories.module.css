@@ -1,0 +1,26 @@
+.categ {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  height: 500px;
+  width: 40%;
+  color: black;
+  margin-left: 4%;
+  font-family: 'Roboto';
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
+
+.p {
+  border-bottom: solid 1px;
+  width: 105px;
+  padding: 5px;
+}
+
+.p:hover {
+  background-color: antiquewhite;
+}
+
+.lnk {
+  color: black;
+}
